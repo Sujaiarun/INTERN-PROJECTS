@@ -1,0 +1,76 @@
+.first
+{
+    display: flex;
+    background-color:rgb(216, 214, 214);
+    justify-content: space-between;
+    padding: 10px;
+    color: black;
+}
+
+.img{
+    width: 70px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: az;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    column-gap: 15px;
+    list-style-type: none;
+    color: black;
+}
+.btn1
+{
+    height: 30px;
+    width: 80px;
+    background-color: azure;
+    color: black;
+}
+.im1{
+    width: 100%;
+    height: 98vh;
+    
+}
+.im2{
+    width: 100%;
+    height: 50vh;
+    border-radius: 50px;
+}
+.par1
+{
+    text-align: justify;
+}
+.par2
+{
+    text-align: justify;
+}
+.im3{
+    width: 100%;
+    height: 50vh;
+     border-radius: 50px;
+}
+.im4{
+    width: 100%;
+    height: 50vh;
+     border-radius: 60px;
+}
+.card1{
+    background-color: rgba(255, 0, 0, 0.451);
+}
+.p1{
+    text-align: justify;
+}
+.bac{
+    background-color: rgba(165, 62, 62, 0.754);
+    color: azure;
+}
+.last{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
