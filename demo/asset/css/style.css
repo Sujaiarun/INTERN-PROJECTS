@@ -1,0 +1,29 @@
+
+.imagess{
+    width: 100px;
+}
+
+.navs{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 10px;
+    align-items: center ;
+}
+
+.menu{
+    display: flex;
+    column-gap: 15px;
+    list-style-type: none;
+}
+
+.btnss{
+    height: 30px;
+    width: 80px;
+    color: blue;
+    background-color: black;
+}
+
+.par{
+    text-align: justify;
+}
