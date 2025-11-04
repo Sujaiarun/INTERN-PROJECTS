@@ -1,0 +1,43 @@
+
+.first
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(232, 126, 126);
+    color:  rgb(152, 4, 4);
+    padding: 10px;
+
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(152, 4, 4);
+    align-items: center;
+}
+.menu{
+    list-style-type:none;
+    display:flex;
+    padding: 10px;
+    column-gap: 10px;
+    color: azure;
+}
+.mn{
+    color: brown;
+}
+.pc{
+    color:darkred
+}
+.pr{
+  color:indianred;
+}
+.bac{
+    /* background-color: rgb(131, 35, 35); */
+    color: whitesmoke;
+}
+.last{
+     display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
